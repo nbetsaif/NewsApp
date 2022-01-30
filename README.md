@@ -1,4 +1,4 @@
-# second_preoject
+# second_project
 
 A new Flutter project.
 
